@@ -1,4 +1,7 @@
-### Hi there 👋
+### Lee sumeen 👋
+- 백엔드 개발자가 되기 위해 노력중!⚡
+- Java Spring 쪽으로 많이 개발중!💻
+- 한 발 더 나아가려고 하는 개발자!🤔
 
 <!--
 **sumeen99/sumeen99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +17,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumeen99&show_icons=true&theme=radical)
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumeen99&show_icons=true&theme=radical)-->
+
