@@ -3,6 +3,10 @@
 - Java Spring 쪽으로 많이 개발중!💻
 - 한 발 더 나아가려고 하는 개발자!🤔
 
+경험📑
+- CMC(Central Makeus Challenge) 동아리 9기 대상 & 10기 리더진 (2022.01~ 2022.07, 6개월)
+- Kakao Enterprise 인턴(2022.02 ~ 2022.07, 6개월)
+
 <!--
 **sumeen99/sumeen99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
